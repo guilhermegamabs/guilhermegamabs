@@ -10,7 +10,7 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Best Technologies<3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="ts-png"  src="ts.png">
+    <img align="center" height="30" width="40" alt="ts-png"  src="icons8-typescript-48.png">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
