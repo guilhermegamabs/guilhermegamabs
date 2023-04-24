@@ -1,8 +1,8 @@
 ## Hi!! My name is Guilherme Gama
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermegamabs&count_private=true&show_icons=true&theme=shades-of-purple" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegamabs&langs_count=3&layout=compact&theme=shades-of-purple" height="180">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermegamabs&count_private=true&show_icons=true&theme=shades-of-purple" height="180">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermegamabs&langs_count=3&layout=compact&theme=shades-of-purple" height="180">
 <br>
 
 <div  align="center"> 
