@@ -12,8 +12,7 @@
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="ts-png"  src="icons8-typescript-48.png">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermegamabs&count_private=true&show_icons=true&theme=shades-of-purple" height="180">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermegamabs&langs_count=3&layout=compact&theme=shades-of-purple" height="180">  
+    
 
    </div>
     
