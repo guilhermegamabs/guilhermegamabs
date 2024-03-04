@@ -13,6 +13,8 @@
     <img align="center" height="30" width="40" alt="ts-png"  src="icons8-typescript-48.png">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+          <img align="center" height="30" width="40" alt="nodejs-icon" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5968%2F5968282.png&tbnid=wYJzEBSfKjKNPM&vet=12ahUKEwiZvtLs5duEAxXiNbkGHYWrBtQQMygAegQIARBS..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fjava_5968282&docid=pwrhaDikj1_wmM&w=512&h=512&q=icon%20java&ved=2ahUKEwiZvtLs5duEAxXiNbkGHYWrBtQQMygAegQIARBS)">
+
    </div>
     
   
