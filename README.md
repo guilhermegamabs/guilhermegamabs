@@ -10,7 +10,7 @@
 </div>
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora back-end.
+Sou desenvolvedor back-end.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (__5ºSemestre__).
 
