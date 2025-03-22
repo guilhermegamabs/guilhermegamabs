@@ -12,7 +12,7 @@
 ## 🚀 Sobre mim
 Sou desenvolvedor back-end.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (__5ºSemestre__).
+Sou estudante de Inteligência Artificial na Faculdade de Informática e Administração Paulista (FIAP) (__1ºSemestre__).
 
 Tive o primeiro contato com  a programação em 2021.
 
