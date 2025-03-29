@@ -10,8 +10,6 @@
 </div>
 
 ## 🚀 Sobre mim
-Sou desenvolvedor back-end.
-
 Sou estudante de Inteligência Artificial na Faculdade de Informática e Administração Paulista (FIAP) (__1ºSemestre__).
 
 Sou formado em Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (UAM)
@@ -24,9 +22,11 @@ Gosto muito de conversar e jogar.
 ## 🛠 Habilidades
 **Inglês** - Avançado
 
+**Python** - aprendendo profundamente as ferramentas dessa linguagem, como Redes Neurais, Estatística e manipulação de datasets
+
 **NodeJS** - já estudei alguns frameworks nele, como "NestJS", "Fastify" e "Express". ORMs como: "Prisma", "Sequelize" e "Mongoose";
 
-**Java** - estou estudando ele atualmente, fui aceito no Santander Bootcamp 2024: Back-end Java;
+**Java** - conhecimentos intermediários, fiz projetos finais da faculdade e ganhei bolsa e peguei meu certificado no Santander Bootcamp 2024: Back-end Java.
 
 **JavaScript** - conhecimentos intermediários;
 
