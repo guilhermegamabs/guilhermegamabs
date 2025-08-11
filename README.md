@@ -10,7 +10,7 @@
 </div>
 
 ## 🚀 Sobre mim
-Sou estudante de Inteligência Artificial na Faculdade de Informática e Administração Paulista (FIAP) (__1ºSemestre__).
+Sou estudante de Inteligência Artificial na Faculdade de Informática e Administração Paulista (FIAP) (__2ºSemestre__).
 
 Sou formado em Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (UAM)
 
