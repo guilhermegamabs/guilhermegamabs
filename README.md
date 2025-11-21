@@ -83,7 +83,7 @@ Aplicação desenvolvida em parceria com a Sompo para **análise de risco region
 <div align="left">
   <a href="https://www.instagram.com/guigbitencourt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-D41b22?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:guilhermegamabs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/guilherme-gama-b7b9a9234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guilherme-gama-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=150&section=footer"/>
