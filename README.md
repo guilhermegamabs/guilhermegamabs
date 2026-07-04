@@ -9,63 +9,21 @@
 ---
 
 ## 🚀 Sobre mim
-Sou desenvolvedor com foco em **Python**, **IA Generativa**, **Machine Learning**, **APIs** e **Pipelines de Dados**.  
-Atuo também no tratamento e análise de dados, anonimização, integração com APIs de IA e implementação de soluções em **Ambientes Cloud**.
+Sou desenvolvedor com foco em Java e Python. Atualmente sou analista de dados, com projetos em Engenharia de Dados (ETL, pipelines, tratamento e análise de dados).
 
 🎓 **Formação:**  
 - Inteligência Artificial – FIAP (cursando)  
 - Análise e Desenvolvimento de Sistemas – UAM (concluído)
 
-🎯 **Áreas de interesse:**  
-IA Generativa • Machine Learning • Back-end • Cloud • Data Engineering • Automação 
-
 ---
 
 ## 🧠 Principais Habilidades
 
-### 💻 **Linguagens e Frameworks**
-- **Python** (Pandas, NumPy, Keras, Flask)  
-- **JavaScript | TypeScript | Node.js**  
-- **Java**  
-- **HTML | CSS**
-
-### 🗄️ **Banco de Dados**
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-- Supabase  
-
-### ☁️ **Cloud & Ferramentas**
-- AWS  
-- Git / GitHub  
-- Google Colab  
-- Power BI  
-
----
-
-## 📌 Projetos em Destaque
-
-### 🔥 **Fiado – Sistema Web para Gestão de Contas (2025)**
-Aplicação web para controle de fiados usada diariamente em um restaurante.  
-**Tecnologias:** Flask, PostgreSQL/Supabase, HTML/CSS/JS  
-**Funcionalidades:**  
-✔ Cadastro de clientes  
-✔ Registro de fiados  
-✔ Pagamentos com atualização automática  
-✔ Histórico + total devido  
-🔗 **Repositório:** [https://github.com/guilhermegamabs/fiado-flask](https://github.com/guilhermegamabs/fiado-flask)
-
----
-
-### 🛰️ **Smart Route – Sompo Seguros (2025)**
-Aplicação desenvolvida em parceria com a Sompo para **análise de risco regional** e geração de insights.  
-**Tecnologias:** Python, R, Machine Learning, Prophet, App Inventor  
-**Destaques:**  
-✔ Integração com boletins de ocorrência  
-✔ Modelos preditivos de risco  
-✔ Visualização e análise estatística  
-✔ Suporte a decisões para contratos de seguro  
-🔗 **Repositório:** [https://github.com/guilhermegamabs/fiado-flask](https://github.com/guilhermegamabs/sompo-seguros)
+- **Python**
+- **SQL**
+- **Java**
+- **Cloud**
+- **Machine Learning**
 
 ---
 
@@ -81,9 +39,8 @@ Aplicação desenvolvida em parceria com a Sompo para **análise de risco region
 ## 🌎 Contatos
 
 <div align="left">
-  <a href="https://www.instagram.com/guigbitencourt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-D41b22?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:guilhermegamabs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/guilherme-gama-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guilherme-gama-bitencourt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=150&section=footer"/>
